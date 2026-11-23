@@ -6,6 +6,8 @@ A multi-page website for The Leaky Cauldron, the inn from *Harry Potter*, built 
 
 Built with CSS and vanilla JavaScript, bundled with webpack. The HTML page is almost empty: JavaScript builds every element.
 
+> **Note:** All of the code in this repository is my own, written by hand in 2023 without AI assistance. This README was updated in 2026 with help from Claude.
+
 ## Features
 
 - Home, Menu, About and Contact tabs that switch without reloading the page
